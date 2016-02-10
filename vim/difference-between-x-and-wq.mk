@@ -10,3 +10,5 @@ The auto refreshes are annoying and :x will save you if you are just closing a f
 
 im writing this in vim and about to use :x to exit and as its a dirty buffer; going to save.
 
+
+Source:https://github.com/jbranchaud/til/blob/master/vim/difference-between-wq-and-x.md
